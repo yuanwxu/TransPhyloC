@@ -1,11 +1,11 @@
 Package: TransPhyloC
 Type: Package
-Title: What the Package Does in One 'Title Case' Line
+Title: Inference of Transmission Tree under a Within-Host Evolution Model
 Version: 1.0
 Date: 2017-04-11
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: One paragraph description of what the package does as one or more full sentences.
+Author: Xavier Didelot <xavier.didelot@gmail.com> and Yuanwei Xu <yuanwxu@126.com>
+Maintainer: Xavier Didelot <xavier.didelot@gmail.com>
+Description: Inference of transmission tree under a within-host evolution model. Using Rcpp to implement the function to compute log-likelihood of transmission tree.
 License: GPL (>= 2)
 Imports: Rcpp (>= 0.12.8)
 LinkingTo: Rcpp, BH
